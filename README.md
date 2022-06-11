@@ -13,7 +13,7 @@ fpga_for_cpu 文件用 verilog 实现了 32 位 cpu ，架构如下
 
 
 
-![架构](C:\Users\Administrator\Desktop\fpga\cpu-compilation\pic\架构.jpg)
+![架构](https://github.com/Eric-is-good/cpu-compilation/blob/main/pic/%E6%9E%B6%E6%9E%84.jpg)
 
 
 
