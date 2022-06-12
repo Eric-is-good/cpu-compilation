@@ -1,0 +1,12 @@
+// for this type
+lui R1,0x1010
+lui R2,0x0101
+add R3,R1,R2
+sub R3,R1,R2
+and R3,R1,R2
+or R3,R1,R2
+xor R3,R1,R2
+sw R1,1(R3)
+lw R4,1(R3)
+beq R1,R2,0x0000
+beq R1,R1,0x0015
